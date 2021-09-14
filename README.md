@@ -1,3 +1,3 @@
 # efaprojekt.github.io
 Pacmen
-<a href = "http://efaprojekt.github.io/tiddlywinks"> Pacmen Exercise </a>
+<a href = "http://efaprojekt.github.io/Pacmen"> Pacmen Exercise </a>
