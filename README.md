@@ -1,4 +1,3 @@
 # efaprojekt.github.io
-My Portfolio
-##Pacmen
+Pacmen
 <a href = "http://efaprojekt.github.io/tiddlywinks"> Pacmen Exercise </a>
